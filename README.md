@@ -1,6 +1,8 @@
-# syncloud
+# Syncloud
 
-Unofficial syncloud app for ubuntu touch
+Syncloud app for ubuntu touch
+
+## Credits
 
 This is a fork of the ubuntu touch app "cryptoprice" from dev Malte Kiefer https://gitlab.com/maltekiefer/cryptoprice
 
@@ -25,3 +27,6 @@ or
 1. connect your device via WiFi network same as your computer
 2. run ```clickable --ssh [IP-of-your-ut-device]```
 
+## Publish
+
+login and upload the .click file located in /build/all/app/ folder under https://open-store.io/
