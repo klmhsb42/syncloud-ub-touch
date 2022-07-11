@@ -6,14 +6,13 @@ Syncloud app for ubuntu touch
 
 This is a fork of the ubuntu touch app "cryptoprice" from dev Malte Kiefer https://gitlab.com/maltekiefer/cryptoprice
 
+## Screenshots
+
+see https://github.com/klmhsb42/syncloud-ub-touch/tree/main/screenshots
 
 ## How to build and develop
 
 First, install clickable https://clickable-ut.dev/en/latest/
-
-## Screenshots
-
-see https://github.com/klmhsb42/syncloud-ub-touch/tree/main/screenshots
 
 ### For building on dekstop and development:
 
