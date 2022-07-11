@@ -28,5 +28,6 @@ or
 2. run ```clickable --ssh [IP-of-your-ut-device]```
 
 ## Publish
-
-login and upload the .click file located in /build/all/app/ folder under https://open-store.io/
+take the .click file located in /build/all/app/ folder
+and 
+login and upload  under https://open-store.io/
